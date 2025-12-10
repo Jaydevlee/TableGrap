@@ -17,7 +17,7 @@
 <pre>
   프로젝트 이름 : TableGrap
   
-  Spring 의존성 : h2 database, spring web, jpa, lombok...ETC
+  Spring 의존성 : h2 database, spring web, spring data jpa, lombok, Thymeleaf, spring security, Validation + ...ETC
   
   Entity : 식당, 예약 현황(식당 이름), 회원(Many to one, 리뷰), 완료된 예약(구현)
 </pre>

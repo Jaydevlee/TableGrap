@@ -29,3 +29,7 @@ Spring Boot 팀플
   
   RestApi : 
 </pre>
+<pre>
+  <code>Integer age;</code>  
+</pre>
+

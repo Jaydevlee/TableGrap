@@ -33,7 +33,8 @@
 | reservation | 예약 페이지 |
 
 ##### Entity
-<pre>Add 2 ERD Diagram</pre>
+<img width="1182" height="714" alt="erd_diagram" src="https://github.com/user-attachments/assets/807736f9-0657-4b23-aec6-09a8a55e2b04" />
+
 
 -----
 

@@ -1,5 +1,10 @@
 # TableGrap
 
+### GIT INFO
+<pre>
+	<a href = "https://youtube.com/playlist?list=PLRf2NYTmZddESfd2DpRO4Zm4_gw-fAg-3&si=vRmZXv3j8LI7kQQ6">GIT 재생목록</a>
+</pre>
+
 
 ## 사전 토의 결과
 <pre>

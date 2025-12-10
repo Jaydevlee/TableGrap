@@ -1,66 +1,37 @@
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
+### IntelliJ ###
+.idea/
+*.iws
 *.iml
 *.ipr
-*.iws
-.idea/
 
-### VS Code ###
-.vscode/
-
-### Maven ###
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.class
 
 ### Gradle ###
 .gradle/
 build/
+out/
+bin/
 !gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
+!gradle/wrapper/gradle-wrapper.properties
 
-### Logs ###
-*.log
-*.log.*
+### Spring Boot ###
 logs/
+*.log
 
 ### OS Files ###
 .DS_Store
 Thumbs.db
 
-### Temporary Files ###
+### Environment Files ###
+application*.yml
+application*.yaml
+application*.properties
+
+### Others ###
+*.zip
 *.tmp
-*.temp
-*.swp
-*.swo
-
-### Java ###
-*.class
-
-### Spring Boot ###
-/bin/
-/out/
-
-### Application properties (보안 관련 파일 제외 권장) ###
-# application.properties, application.yml 같은 설정 파일이 민감할 경우 주석 해제
-# src/main/resources/application.properties
-# src/main/resources/application.yml
-
-### Other ###
-/*.zip
-/*.tar
-/*.gz
